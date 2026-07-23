@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lg-foundation.pages.dev/sitemap.xml
